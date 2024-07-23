@@ -1,0 +1,2 @@
+AI stands for Artificial Intelligence
+Machine Learning is a core module of AI
