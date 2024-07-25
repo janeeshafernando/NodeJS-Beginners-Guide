@@ -9,7 +9,7 @@
 // > cd Chapter 03 - NPM Modules 
 // > nodemon
 
-console.log('testing!')
+console.log('Hello World!')
 
 // Initialize npm for our project
 // > npm init 
