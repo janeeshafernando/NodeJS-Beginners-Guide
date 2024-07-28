@@ -1,0 +1,16 @@
+{
+  "name": "chapter-04---event-emitter",
+  "version": "1.0.0",
+  "description": "Chapter 04 - Event Emitter",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Janeesha Fernando",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "uuid": "^10.0.0"
+  }
+}
